@@ -1,0 +1,25 @@
+{
+  "dataSet": [
+    {
+      "product" : "MacBook Air",
+      "dolarsPrice": 1202.00,
+      "poundsPrice" : 906.69,
+      "eurosPrice": 1034.60,
+      "imageURL" : "macbook_air_1-500x500.jpg"
+    },
+    {
+      "product" : "iPhone",
+      "dolarsPrice": 123.20,
+      "poundsPrice" : 92.93,
+      "eurosPrice": 106.04,
+      "imageURL" : "iphone_1-500x500.jpg"
+    },
+    {
+      "product" : "Nikon D300",
+      "dolarsPrice": 98.00,
+      "poundsPrice" : 73.92,
+      "eurosPrice": 84.35,
+      "imageURL" : "nikon_d300_1-228x228.jpg"
+    }
+  ]
+}
